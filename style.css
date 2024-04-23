@@ -101,5 +101,38 @@ button#equal{
     height: 130px;
 }
 
+/* Light theme */
+.calculator{
+    background-color: #fff;
+}
+
+.calculator #display{
+    color: #0a1e23;
+}
+
+.calculator button#clear{
+    background-color: #ffd5d8;
+    color: #fc4552;
+}
+
+.calculator button.btn-number{
+    background-color: #ffd0fd;
+    color: #000;
+}
+
+.calculator button.btn-operator{
+    background-color: #ffd0fd;
+    color: #f967f3;
+}
+
+.calculator button.btn-equal{
+    background-color: #adf9e7;
+    color: #000;
+}
+
+
+
+
+
 
 
