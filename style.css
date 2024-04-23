@@ -94,7 +94,7 @@ button{
 }
 
 button:hover{
-    transform: scale(1.15);
+    transform: scale(1.1);
 }
 
 button#equal{
@@ -128,6 +128,36 @@ button#equal{
 .calculator button.btn-equal{
     background-color: #adf9e7;
     color: #000;
+}
+
+/* dark theme */
+
+.calculator.dark{
+    background-color: #071115;
+}
+
+.calculator.dark #display{
+    color: #f8fafd;
+}
+
+.calculator.dark button#clear{
+    background-color: #2d191e;
+    color: #bd3740;
+}
+
+.calculator.dark button.btn-number{
+    background-color: #1b2f38;
+    color: #f8fafb;
+}
+
+.calculator.dark button.btn-operator{
+    background-color: #2e1f39;
+    color: #aa00a4;
+}
+
+.calculator.dark button.btn-equal{
+    background-color: #223323;
+    color: #ffffff;
 }
 
 
