@@ -1,5 +1,9 @@
-Dark Theme & Light Theme Calculator 
+A simple yet efficient Calculator Application built using HTML, CSS, and JavaScript. This application allows you to perform basic arithmetic operations like addition, subtraction, multiplication, and division effortlessly.
 
-Technologies:- HTML , CSS , JavaScript
+Key Features:
+✨ Dark & Light Theme
+✨ Basic arithmetic operations
+✨ Clear button for resetting inputs
 
-![Screenshot 2024-04-23 185615](https://github.com/chamithKavinda/Calculator/assets/139870167/a5ad03c4-4fa0-49a5-91c4-955930d6bcb9)
+![Screenshot 2024-04-23 194331](https://github.com/chamithKavinda/Calculator/assets/139870167/32dd7b9c-b6b1-4628-9727-375240f0cc40)
+
