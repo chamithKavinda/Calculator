@@ -98,67 +98,6 @@ button#equal{
     height: 130px;
 }
 
-/* Light theme */
-.calculator{
-    background-color: #fff;
-}
-
-.calculator #display{
-    color: #0a1e23;
-}
-
-.calculator button#clear{
-    background-color: lightpink;
-    color: #fc4552;
-}
-
-.calculator button.btn-number{
-    background-color: lightgrey;
-    color: #000;
-}
-
-.calculator button.btn-operator{
-    background-color: #ffd0fd;
-    color: #fc4552;
-}
-
-.calculator button.btn-equal{
-    background-color: #adf9e7;
-    color: #000;
-}
-
-/* dark theme */
-
-.calculator.dark{
-    background-color: #150b29;
-}
-
-.calculator.dark #display{
-    color: white;
-}
-
-.calculator.dark button#clear{
-    background-color: #361f25;
-    color: lightcoral;
-}
-
-.calculator.dark button.btn-number{
-    background-color: #1b2f38;
-    color: #f8fafb;
-}
-
-.calculator.dark button.btn-operator{
-    background-color: rgb(46, 55, 56);
-    color: lightcoral;
-}
-
-.calculator.dark button.btn-equal{
-    background-color: rgb(43, 45, 66);
-    color: #ffffff;
-}
-
-
-
 
 
 
