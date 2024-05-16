@@ -5,5 +5,6 @@ Key Features:
 ✨ Basic arithmetic operations
 ✨ Clear button for resetting inputs
 
-![Screenshot 2024-04-23 194331](https://github.com/chamithKavinda/Calculator/assets/139870167/32dd7b9c-b6b1-4628-9727-375240f0cc40)
+![Screenshot 2024-05-16 145532](https://github.com/chamithKavinda/Calculator/assets/139870167/3b0c525c-d586-4926-b8e5-592c63480ceb)
+
 
